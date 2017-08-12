@@ -1,0 +1,28 @@
+Wifi 통신방법
+
+1. 아두이노 코딩
+
+2. 아두이노 AT command 사용 가능하도록 코딩
+	+ 스마트폰 AT command 어플 사용
+https://wizdaniel.wordpress.com/2015/05/13/wizfi250-station-mode-setting/
+
+
+3. 아듀니티(ARDUnity) 디럭스 에셋 구매
+
+
+
+
+종설 소재
+
+진행중
+1. 시리얼 포트 아두이노 연결
+2. VR sample 에셋을 이용한 VR UI
+3. 와이파이 연결
+4. 센서값 조정 및 속도 조절
+5. maximo 이용 동작 사실화
+6. vuforia 이용해서 고글 선택
+7. 설정-원하는 시점 변경 기능
+8. 코스 벗어나지 않도록 내비게이션
+
+완료
+1. 폴리곤 문제로 지형 변경
